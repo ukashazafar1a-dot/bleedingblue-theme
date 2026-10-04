@@ -1,0 +1,354 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 28
+      }
+    },
+    "2e6fe6b0-a3d8-4c6f-b308-d8752f39d4aa": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20788922384662__2e6fe6b0-a3d8-4c6f-b308-d8752f39d4aa-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "About Us",
+            "heading_size": "h0"
+          }
+        },
+        "template--20788922384662__2e6fe6b0-a3d8-4c6f-b308-d8752f39d4aa-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
+          }
+        },
+        "template--20788922384662__2e6fe6b0-a3d8-4c6f-b308-d8752f39d4aa-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20788922384662__2e6fe6b0-a3d8-4c6f-b308-d8752f39d4aa-heading-1",
+        "template--20788922384662__2e6fe6b0-a3d8-4c6f-b308-d8752f39d4aa-text-1",
+        "template--20788922384662__2e6fe6b0-a3d8-4c6f-b308-d8752f39d4aa-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 16,
+        "padding_bottom": 12
+      }
+    },
+    "1fbb8aaf-d336-496a-a961-b2e8215624e4": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20788922384662__1fbb8aaf-d336-496a-a961-b2e8215624e4-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Bleeding Blue is a 501(c)(3) Florida Non-Profit organization that stands with the families who keep our communities safe. </p><p>Our mission is to provide unwavering support to law enforcement families during times of injury, loss, and emotional hardship. We offer essential assistance following on-duty injuries or line-of-duty deaths. We believe in the hard work and sacrifices that these individuals make every day to keep our communities safe, and we want to do our part to help them.</p><p> Through impactful community events and outreach, we strive to bridge the gap between law enforcement and the communities they serve—fostering unity, understanding, and lasting support for those who protect us.<br/><br/>Due to the increase of first responder suicides, we have expanded our mission to address a critical and growing need within the law enforcement community: mental health and wellness. Our Bleeding Blue Mental Wellness Initiative is a comprehensive program aimed at increasing access to mental health resources, reducing stigma, and providing proactive support for first responders and their families. </p><p><br/>We are a team of dedicated volunteers who are passionate about supporting our local heroes. We are committed to working tirelessly to raise money and support for our mission, and we hope that you will join us in our efforts.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20788922384662__1fbb8aaf-d336-496a-a961-b2e8215624e4-text-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 4,
+        "padding_bottom": 8
+      }
+    },
+    "ca229308-c033-4ed2-b631-76859deee127": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div align=center><iframe width=\"403\" height=\"516\" src=\"https://www.youtube.com/embed/VaRR4TKLkno\" title=\"What is Bleeding Blue ?\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n<iframe width=\"403\" height=\"516\" src=\"https://www.youtube.com/embed/UZPaG3APH9E\" title=\"What inspired us to start Bleeding Blue ?\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n</div>",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_c4iCyA": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_dVU8wB": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/2.png",
+            "title": "Danny Morales Founder & President",
+            "text": "<p>Miami-Dade Police Department</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_RVGt4H": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/1.png",
+            "title": "Melanie Ginoris, Executive Vice President",
+            "text": "<p>Miami-Dade Police Department</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_YccXQn": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/BOARD_OF_DIRECTORS_HEADSHOTS_1_a562988f-a7b1-40c8-8680-203b1be29a30.png",
+            "title": "Daniel Montano, Vice President",
+            "text": "<p>Hialeah Gardens</p><p> Police Department</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_k68BFW": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/BOARD_OF_DIRECTORS_HEADSHOTS_4.png",
+            "title": "Nelly Alvarez, Secretary",
+            "text": "<p>Mother and Wife of LEO's</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_HXygaz": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/5_5335a67b-fd0f-43c3-a570-ba8b5e952fc9.png",
+            "title": "Bianchi Gonzalez, Treasurer",
+            "text": "<p>Miami-Dade Police Department</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_dVU8wB",
+        "column_RVGt4H",
+        "column_YccXQn",
+        "column_k68BFW",
+        "column_HXygaz"
+      ],
+      "settings": {
+        "title": "Executive Board of Directors",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 8,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_M9eQkz": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_LQY7Kp": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Blue_Red_White_Simple_Minimalist_Happy_Presidents_Day_Poster_1.png",
+            "title": "Mayrelis Chavez",
+            "text": "<p>City of Hialeah </p><p>Police Department</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_Jmctdt": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/6.png",
+            "title": "Omy Llaneras",
+            "text": "<p>Police Chaplain and Victim Advocate</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_mKypGP": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/BOARD_OF_DIRECTORS_HEADSHOTS_5.png",
+            "title": "Amado Alvarez",
+            "text": "<p>Retired LEO</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_U3PPL7": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/3_c01b9e11-c47b-4e4b-96a9-54895fc270d5.png",
+            "title": "<strong>Samuel M Simon</strong>",
+            "text": "<p>North Miami Beach </p><p>Police Department </p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_jQpkzQ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/4_66cda09c-d2ee-473f-9a28-f749db6a5aaf.png",
+            "title": "Vania Simon",
+            "text": "<p>Licensed Mental Health Counselor </p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_LQY7Kp",
+        "column_Jmctdt",
+        "column_mKypGP",
+        "column_U3PPL7",
+        "column_jQpkzQ"
+      ],
+      "settings": {
+        "title": "Board of Directors",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 4,
+        "padding_bottom": 36
+      }
+    },
+    "0158a65b-333a-4a74-8029-62b05ade6942": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--20788922384662__0158a65b-333a-4a74-8029-62b05ade6942-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Founder",
+            "heading_size": "h1"
+          }
+        },
+        "template--20788922384662__0158a65b-333a-4a74-8029-62b05ade6942-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>My name is Danny Morales and I am a law enforcement officer employed with the Miami-Dade Police Department. I come from a family of law enforcement officers who have provided me with the foundation to learn, lead and thrive in this profession. </p><p>Throughout my tenure as a peace officer, my family and I have been blessed with the honor and opportunity to raise funds for several officers and their families who have been involved in incidents that have left them in need of financial assistance. Sadly, this includes fallen officers as well. </p><p>I have been asked why I put so much time into these events and fundraisers. My answer is very simple: <em>“I would hope that someone did this for my family and I if we ever needed the help.” </em></p><p>Our goal with Bleeding Blue Inc. is to continue to raise awareness, appreciation and funds for South Florida officers and their families when they are going through hardship. </p><p>Through product sales, events and fundraising, we will continue to assist where we can, with the goal of showing the thin blue line family that <strong>we are ONE!</strong></p>",
+            "text_style": "body"
+          }
+        },
+        "template--20788922384662__0158a65b-333a-4a74-8029-62b05ade6942-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Connect With Me",
+            "button_link": "shopify://pages/contact",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20788922384662__0158a65b-333a-4a74-8029-62b05ade6942-heading-1",
+        "template--20788922384662__0158a65b-333a-4a74-8029-62b05ade6942-text-1",
+        "template--20788922384662__0158a65b-333a-4a74-8029-62b05ade6942-button-1"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/SJ1_0471.jpg",
+        "height": "medium",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "29d750e0-8452-4521-8cea-5d290da36d9a": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--20788922384662__29d750e0-8452-4521-8cea-5d290da36d9a-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Co-Founder",
+            "heading_size": "h1"
+          }
+        },
+        "template--20788922384662__29d750e0-8452-4521-8cea-5d290da36d9a-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Over a decade of service with the Miami-Dade Police Department has made me no stranger to seeing my brothers-and-sisters in blue encounter life-altering experiences. Some of those, unfortunately, left behind children and families in desperate need of help. In the summer of 2019, my brother, Danny, and I started organizing and conducting small fundraisers aimed to benefit officers of the MDPD who had experienced loss. In 2022, after the tragic loss of one of our own and a personal friend, we collectively decided to devote our full effort into the cause, and thus, Bleeding Blue was born.<br/><br/>As second-generation law enforcement officers, Danny and I have seen firsthand what the \"Thin Blue Line\" represents. We understand how critical it is for us to carry the torch when a brother, or sister, in blue needs help. Our goal is simple; continue to hold the line when others can't. Through fundraisers, donations, and selfless volunteer efforts, Bleeding Blue has rapidly grown into a family of it's own consistently striving to help law enforcement families in need. Together, we're two brothers on a mission to ensure that no officer is left behind or forgotten.<strong>We will always BLEED BLUE!</strong></p>",
+            "text_style": "body"
+          }
+        },
+        "template--20788922384662__29d750e0-8452-4521-8cea-5d290da36d9a-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Connect With Me",
+            "button_link": "shopify://pages/contact",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20788922384662__29d750e0-8452-4521-8cea-5d290da36d9a-heading-1",
+        "template--20788922384662__29d750e0-8452-4521-8cea-5d290da36d9a-text-1",
+        "template--20788922384662__29d750e0-8452-4521-8cea-5d290da36d9a-button-1"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/0E17180A-354C-4C71-AABF-4953CAD9000A.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "2e6fe6b0-a3d8-4c6f-b308-d8752f39d4aa",
+    "1fbb8aaf-d336-496a-a961-b2e8215624e4",
+    "ca229308-c033-4ed2-b631-76859deee127",
+    "multicolumn_c4iCyA",
+    "multicolumn_M9eQkz",
+    "0158a65b-333a-4a74-8029-62b05ade6942",
+    "29d750e0-8452-4521-8cea-5d290da36d9a"
+  ]
+}

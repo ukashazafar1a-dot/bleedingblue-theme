@@ -1,0 +1,255 @@
+{% schema %}
+{
+  "name": "Provider Directory",
+  "settings": [
+    {
+      "type": "text",
+      "id": "section_heading",
+      "label": "Directory Title",
+      "default": "Mental Health Providers"
+    }
+  ],
+  "blocks": [
+  {
+    "type": "provider",
+    "name": "Provider",
+    "settings": [
+      { "type": "text", "id": "provider_name", "label": "Provider Name", "default": "Provider Name" },
+      { "type": "image_picker", "id": "provider_image", "label": "Provider Image" },
+      { "type": "text", "id": "provider_title", "label": "Title & Credentials", "default": "LMHC, LCSW" },
+      { "type": "text", "id": "provider_location", "label": "Location", "default": "IN PERSON & TELEHEALTH" },
+      { "type": "text", "id": "provider_practice", "label": "Practice / Clinic Name", "default": "Example Practice Name" },
+      { 
+  "type": "url", 
+  "id": "provider_link", 
+  "label": "Website Link"
+}
+,
+      { "type": "richtext", "id": "provider_description", "label": "Short About / Introduction", "default": "<p>Provider description here...</p>" },
+      { "type": "richtext", "id": "specialties", "label": "Specialties & Expertise", "default": "<p>Specialties listed here...</p>" },
+      { "type": "textarea", "id": "insurance", "label": "Insurance Accepted", "default": "Insurance details..." },
+      { "type": "text", "id": "fees", "label": "Fees / Pricing", "default": "Session Fees..." },
+      { "type": "text", "id": "contact", "label": "Contact Info", "default": "Phone / Email..." }
+    ]
+  }
+],
+  "presets": [
+    {
+      "name": "Provider Directory (Preloaded)",
+      "category": "Custom",
+      "blocks": [
+        {
+          "type": "provider",
+          "settings": {
+            "provider_name": "Bianca Muniz, LCSW",
+            "provider_image": "",
+            "provider_title": "Everbloom Counseling LLC",
+            "provider_location": "TELEHEALTH ONLY",
+            "provider_practice": "Everbloom Counseling LLC",
+            "provider_link": "https://www.psychologytoday.com/us/therapists/bianca-muniz-miami-lakes-fl/1387687",
+            "provider_description": "<p>I work with clients struggling with anxiety, grief, end of life issues, perfectionism and self-doubt. In our first sessions we'll explore what's weighing on you and create a plan that feels manageable and real. Most clients start to feel relief within 12 sessions, gaining clearer thinking, stronger boundaries, and more confidence to live life on their terms.</p>",
+            "specialties": "<p>Anxiety<br>Grief<br>End of Life Issues<br>Coping Skills<br>Perfectionism<br>Self Esteem</p>",
+            "insurance": "Aetna, AvMed, Carelon Behavioral Health, Cigna, Evernorth, EAP:Cigna, EAP:Evernorth, EAP:United Healthcare/Optum, Golden Rule, Harvard Pilgrim, Meritain Health, Nippon, Optum, OptumHealth Complex Medical Co, Oscar Health, Oxford, Out of Network, Tufts, United Healthcare, United Medical Resources (UMR)",
+            "fees": "Individual Sessions $150",
+            "contact": "bmunizlcsw@everbloomcounselingllc.com | (786) 220-6838"
+          }
+        },
+        {
+          "type": "provider",
+          "settings": {
+            "provider_name": "Terrini Woods, LMHC",
+            "provider_image": "",
+            "provider_title": "Terrini Woods Counseling, Inc.",
+            "provider_location": "IN PERSON & TELEHEALTH",
+            "provider_practice": "Terrini Woods Counseling, Inc.",
+            "provider_link": "https://terriniwoodscounseling.com/about-twc/",
+            "provider_description": "<p>I strive to offer a caring space to navigate life’s most sensitive matters. With deep cultural competence, I provide uplifting support tailored to your identity. Extending unconditional love, my biblical counsel empowers your growth through empathy, never judgment.</p>",
+            "specialties": "<p>Christian Counseling<br>Premarital/Marital Counseling<br>Parenting Support<br>Grief Counseling<br>Conflict Resolution<br>Communication Betterment</p>",
+            "insurance": "Aetna, AvMed, Florida Blue, Humana, Meritain Health, Oscar Health",
+            "fees": "Sliding scale: apply if you may be eligible",
+            "contact": "terrinimwoods@gmail.com | (561) 801-9548"
+          }
+        },
+        {
+          "type": "provider",
+          "settings": {
+            "provider_name": "Cristina Horta, RMHCI",
+            "provider_image": "",
+            "provider_title": "Wellspring Counseling Center",
+            "provider_location": "IN PERSON & TELEHEALTH",
+            "provider_practice": "Wellspring Counseling Center",
+            "provider_link": "https://wellspringmiami.org/therapists/cristina-horta/",
+            "provider_description": "<p>“I love walking people through their healing process and supporting them in achieving their goals. This approach helps me build meaningful connections with my clients, offering unbiased care and an honest perspective that brings clarity to the bigger picture of their lives.”</p>",
+            "specialties": "<p>Anxiety<br>Grief and Loss<br>Healthy Habits<br>Resilience / Life Changes<br>Mood Disorder<br>Trauma<br>Addictions<br>Couples</p>",
+            "insurance": "All major credit cards, HSA, FSA; Scholarships & Grants available",
+            "fees": "As low as $50 and up to $155 per session",
+            "contact": "cristina@wellspringmiami.org | (305) 722-5380"
+          }
+        },
+        {
+          "type": "provider",
+          "settings": {
+            "provider_name": "Daniel Rubin, M.S., LMHC, LPC",
+            "provider_image": "",
+            "provider_title": "Transcend Counseling, LLC",
+            "provider_location": "IN PERSON & TELEHEALTH",
+            "provider_practice": "Transcend Counseling, LLC",
+            "provider_link": "https://www.transcendcounselingllc.com/",
+            "provider_description": "<p>I have over a decade of experience treating individuals and families who struggle with addiction and substance abuse. I provide a personalized approach and evidence-based practices for long-term recovery.</p>",
+            "specialties": "<p>Addiction<br>Depression<br>Men's Issues<br>Alcohol Use<br>Chronic Relapse<br>Dual Diagnosis</p>",
+            "insurance": "Aetna, Cigna/Evernorth, Florida Blue, Meritain Health, Optum, Oscar Health, Oxford, UnitedHealthcare",
+            "fees": "Individual & Couples Sessions $150 (sliding scale available)",
+            "contact": "info@southfloridamentalhealth.com | (404) 668-8369"
+          }
+        },
+        {
+          "type": "provider",
+          "settings": {
+            "provider_name": "Angie Dominguez, M.S., RMHCI",
+            "provider_image": "",
+            "provider_title": "Minding the Gap, Inc.",
+            "provider_location": "IN PERSON & TELEHEALTH",
+            "provider_practice": "Minding the Gap, Inc.",
+            "provider_link": "https://www.dot.cards/angiedominguez",
+            "provider_description": "<p>Are you or a loved one struggling with trauma, anxiety, or major life changes? I provide therapy to help navigate challenges and foster personal growth.</p>",
+            "specialties": "<p>Trauma<br>Anxiety<br>ADHD</p>",
+            "insurance": "Aetna, Cigna/Evernorth, Florida Blue, Meritain Health, OpenPath, Out of Network",
+            "fees": "Individual $100-150 (sliding scale available)",
+            "contact": "domclasconsulting@gmail.com | (786) 836-8595"
+          }
+        },
+        {
+          "type": "provider",
+          "settings": {
+            "provider_name": "Lourdes Garcia-Carillo, ABD, LMHC",
+            "provider_image": "",
+            "provider_title": "Shilow Wellness Center",
+            "provider_location": "IN PERSON & TELEHEALTH",
+            "provider_practice": "Shilow Wellness Center",
+            "provider_link": "",
+            "provider_description": "<p>I specialize in helping individuals across ages with ADHD, anxiety, bipolar disorder, depression, substance abuse and trauma.</p>",
+            "specialties": "<p>ADHD<br>Anxiety<br>Depression<br>Substance Use<br>Trauma</p>",
+            "insurance": "Aetna, AvMed, Cigna/Evernorth, Florida Blue, Meritain Health, Optum, Oscar Health, United Health Care",
+            "fees": "Individual Sessions $150, Couple Sessions $170 (sliding scale may apply)",
+            "contact": "lourdes@ognabconsulting.com | (786) 305-8467"
+          }
+        },
+        {
+          "type": "provider",
+          "settings": {
+            "provider_name": "Ruth Cuzan, M.S. LMHC, CRC",
+            "provider_image": "",
+            "provider_title": "Minding the Gap, Inc",
+            "provider_location": "IN PERSON & TELEHEALTH",
+            "provider_practice": "Minding the Gap, Inc.",
+            "provider_link": "https://www.mindingthegap.net",
+            "provider_description": "<p>I specialize in supporting adults who have experienced complex traumas, sexual trauma, and emotionally intense careers.</p>",
+            "specialties": "<p>Sexual Abuse<br>Trauma and PTSD<br>Grief<br>Anxiety<br>Depression</p>",
+            "insurance": "Aetna, AvMed, Cigna/Evernorth, Florida Blue, Meritain Health, Optum, Oscar Health, Oxford, Tufts",
+            "fees": "Individual Sessions $120, Couple Sessions $150",
+            "contact": "ruth@rootlesstherapy.com | (786) 397-5396"
+          }
+        },
+        {
+          "type": "provider",
+          "settings": {
+            "provider_name": "Herenia Ferreiro",
+            "provider_image": "",
+            "provider_title": "Nurturing Hope Counseling Services",
+            "provider_location": "IN PERSON & TELEHEALTH",
+            "provider_practice": "Nurturing Hope Counseling Services",
+            "provider_link": "",
+            "provider_description": "<p>Licensed Clinical Social Worker with experience treating PTSD, anxiety, depression, grief and more.</p>",
+            "specialties": "<p>Trauma and PTSD<br>Depression<br>Anxiety<br>Addiction</p>",
+            "insurance": "Aetna, AvMed, Cigna/Evernorth, Florida Blue, Humana, Optum, Oscar Health, Oxford, Tufts, UMR",
+            "fees": "Individual Sessions $140 (sliding scale may apply)",
+            "contact": "ferreiroh@nurturinghopecounselingservices.com | 954-242-8507"
+          }
+        }
+
+        /* Add more provider blocks here following the same pattern if you'd like */
+      ]
+    }
+  ]
+}
+{% endschema %}
+
+<section class="provider-section">
+  <div class="page-width">
+    <h2 class="provider-title">{{ section.settings.section_heading }}</h2>
+
+    {% for block in section.blocks %}
+      <details class="provider-card" role="group" aria-label="{{ block.settings.provider_name }}">
+        <summary class="provider-summary">
+          <div class="summary-content">
+            {% if block.settings.provider_image != blank %}
+              <img 
+  src="{{ block.settings.provider_image | img_url: 'compact' }}" 
+  alt="{{ block.settings.provider_name }}"
+  class="provider-thumb"
+  width="80"
+  height="80"
+/>
+
+            {% else %}
+              <div class="provider-thumb provider-thumb--placeholder" aria-hidden="true"></div>
+            {% endif %}
+
+            <div class="summary-text">
+              <h3 class="provider-name">{{ block.settings.provider_name }}</h3>
+              {% if block.settings.provider_title != blank %}
+                <p class="provider-title-credentials">{{ block.settings.provider_title }}</p>
+              {% endif %}
+              {% if block.settings.provider_location != blank %}
+                <p class="provider-location">{{ block.settings.provider_location }}</p>
+              {% endif %}
+            </div>
+          </div>
+        </summary>
+
+        <div class="provider-details">
+          {% if block.settings.provider_practice != blank %}
+            <p><strong>Practice:</strong> {{ block.settings.provider_practice }}</p>
+          {% endif %}
+          {% if block.settings.provider_link != blank %}
+            <p><strong>Website:</strong> <a href="{{ block.settings.provider_link }}" target="_blank" rel="noopener">Visit Website</a></p>
+          {% endif %}
+
+          {% if block.settings.provider_description != blank %}
+            <div class="provider-desc">{{ block.settings.provider_description }}</div>
+          {% endif %}
+
+          {% if block.settings.specialties != blank %}
+            <p><strong>Specialties & Expertise:</strong><br />{{ block.settings.specialties }}</p>
+          {% endif %}
+
+          {% if block.settings.fees != blank %}
+            <p><strong>Fees:</strong> {{ block.settings.fees }}</p>
+          {% endif %}
+
+          {% if block.settings.insurance != blank %}
+            <p><strong>Insurance Accepted:</strong><br />{{ block.settings.insurance }}</p>
+          {% endif %}
+
+          {% if block.settings.contact != blank %}
+            <p><strong>Contact:</strong> {{ block.settings.contact }}</p>
+          {% endif %}
+        </div>
+      </details>
+    {% endfor %}
+  </div>
+</section>
+
+<style>
+.provider-section { padding: 32px 0; }
+.provider-title { text-align:center; margin-bottom:20px; font-size:28px; }
+.provider-card { border:1px solid #e6e6e6; border-radius:8px; margin-bottom:12px; background:#fff; overflow:hidden; }
+.provider-summary { cursor:pointer; display:block; padding:14px; background:#fafafa; }
+.provider-summary:hover { background:#f0f0f0; }
+.summary-content { display:flex; gap:14px; align-items:center; }
+.provider-thumb { width:64px; height:64px; border-radius:50%; object-fit:cover; }
+.provider-thumb--placeholder { width:64px; height:64px; border-radius:50%; background:#eee; }
+.summary-text .provider-name { margin:0; font-size:18px; }
+.provider-details { padding:14px; border-top:1px solid #eee; background:#fff; }
+.provider-details p { margin:8px 0; }
+</style>

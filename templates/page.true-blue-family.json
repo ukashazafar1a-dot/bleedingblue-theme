@@ -1,0 +1,202 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 28
+      }
+    },
+    "2e6fe6b0-a3d8-4c6f-b308-d8752f39d4aa": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20788922384662__2e6fe6b0-a3d8-4c6f-b308-d8752f39d4aa-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "About Us",
+            "heading_size": "h1"
+          }
+        },
+        "template--20788922384662__2e6fe6b0-a3d8-4c6f-b308-d8752f39d4aa-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
+          }
+        },
+        "template--20788922384662__2e6fe6b0-a3d8-4c6f-b308-d8752f39d4aa-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20788922384662__2e6fe6b0-a3d8-4c6f-b308-d8752f39d4aa-heading-1",
+        "template--20788922384662__2e6fe6b0-a3d8-4c6f-b308-d8752f39d4aa-text-1",
+        "template--20788922384662__2e6fe6b0-a3d8-4c6f-b308-d8752f39d4aa-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 16,
+        "padding_bottom": 12
+      }
+    },
+    "1fbb8aaf-d336-496a-a961-b2e8215624e4": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20788922384662__1fbb8aaf-d336-496a-a961-b2e8215624e4-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Bleeding Blue is a 501(c)(3) Florida Non-Profit organization that is dedicated to supporting law enforcement officers and their families. We believe in the hard work and sacrifices that these individuals make every day to keep our communities safe, and we want to do our part to help them.<br/><br/>Our goal is to raise money through various fundraising efforts, and use that money to support law enforcement officers and their families in a number of ways. This could include providing financial assistance to officers in need, and  offering support to the families of fallen officers. <br/><br/>We are a team of dedicated volunteers who are passionate about supporting our local heroes. We are committed to working tirelessly to raise money and support for our mission, and we hope that you will join us in our efforts.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20788922384662__1fbb8aaf-d336-496a-a961-b2e8215624e4-text-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 4,
+        "padding_bottom": 8
+      }
+    },
+    "36cb93c0-0890-4edd-bdd5-5f7da1a6a43b": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "cover_image": "shopify://shop_images/download_410b1307-cca6-4a8d-ad77-be51d0fd9cdf.jpg",
+        "description": "About us video",
+        "full_width": false,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "0158a65b-333a-4a74-8029-62b05ade6942": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--20788922384662__0158a65b-333a-4a74-8029-62b05ade6942-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Founder",
+            "heading_size": "h1"
+          }
+        },
+        "template--20788922384662__0158a65b-333a-4a74-8029-62b05ade6942-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>My name is Danny Morales and I am a law enforcement officer employed with the Miami-Dade Police Department. I come from a family of law enforcement officers who have provided me with the foundation to learn, lead and thrive in this profession. </p><p>Throughout my tenure as a peace officer, my family and I have been blessed with the honor and opportunity to raise funds for several officers and their families who have been involved in incidents that have left them in need of financial assistance. Sadly, this includes fallen officers as well. </p><p>I have been asked why I put so much time into these events and fundraisers. My answer is very simple: <em>“I would hope that someone did this for my family and I if we ever needed the help.” </em></p><p>Our goal with Bleeding Blue Inc. is to continue to raise awareness, appreciation and funds for South Florida officers and their families when they are going through hardship. </p><p>Through product sales, events and fundraising, we will continue to assist where we can, with the goal of showing the thin blue line family that <strong>we are ONE!</strong></p>",
+            "text_style": "body"
+          }
+        },
+        "template--20788922384662__0158a65b-333a-4a74-8029-62b05ade6942-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Connect With Me",
+            "button_link": "shopify://pages/contact",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20788922384662__0158a65b-333a-4a74-8029-62b05ade6942-heading-1",
+        "template--20788922384662__0158a65b-333a-4a74-8029-62b05ade6942-text-1",
+        "template--20788922384662__0158a65b-333a-4a74-8029-62b05ade6942-button-1"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/SJ1_0471.jpg",
+        "height": "medium",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "29d750e0-8452-4521-8cea-5d290da36d9a": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--20788922384662__29d750e0-8452-4521-8cea-5d290da36d9a-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Co-Founder",
+            "heading_size": "h1"
+          }
+        },
+        "template--20788922384662__29d750e0-8452-4521-8cea-5d290da36d9a-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Over a decade of service with the Miami-Dade Police Department has made me no stranger to seeing my brothers-and-sisters in blue encounter life-altering experiences. Some of those, unfortunately, left behind children and families in desperate need of help. In the summer of 2019, my brother, Danny, and I started organizing and conducting small fundraisers aimed to benefit officers of the MDPD who had experienced loss. In 2022, after the tragic loss of one of our own and a personal friend, we collectively decided to devote our full effort into the cause, and thus, Bleeding Blue was born.<br/><br/>As second-generation law enforcement officers, Danny and I have seen firsthand what the \"Thin Blue Line\" represents. We understand how critical it is for us to carry the torch when a brother, or sister, in blue needs help. Our goal is simple; continue to hold the line when others can't. Through fundraisers, donations, and selfless volunteer efforts, Bleeding Blue has rapidly grown into a family of it's own consistently striving to help law enforcement families in need. Together, we're two brothers on a mission to ensure that no officer is left behind or forgotten.<strong>We will always BLEED BLUE!</strong></p>",
+            "text_style": "body"
+          }
+        },
+        "template--20788922384662__29d750e0-8452-4521-8cea-5d290da36d9a-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Connect with me",
+            "button_link": "shopify://pages/contact",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20788922384662__29d750e0-8452-4521-8cea-5d290da36d9a-heading-1",
+        "template--20788922384662__29d750e0-8452-4521-8cea-5d290da36d9a-text-1",
+        "template--20788922384662__29d750e0-8452-4521-8cea-5d290da36d9a-button-1"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/E47C1D32-36C8-4F46-A038-0EFF42BBB790.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "2e6fe6b0-a3d8-4c6f-b308-d8752f39d4aa",
+    "1fbb8aaf-d336-496a-a961-b2e8215624e4",
+    "36cb93c0-0890-4edd-bdd5-5f7da1a6a43b",
+    "0158a65b-333a-4a74-8029-62b05ade6942",
+    "29d750e0-8452-4521-8cea-5d290da36d9a"
+  ]
+}

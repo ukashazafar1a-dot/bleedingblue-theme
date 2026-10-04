@@ -1,0 +1,83 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 28
+      }
+    },
+    "0e2b9c76-42ea-44db-9f2b-3060a59cf89f": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20790638117142__0e2b9c76-42ea-44db-9f2b-3060a59cf89f-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Past Events",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--20790638117142__0e2b9c76-42ea-44db-9f2b-3060a59cf89f-heading-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "bc0d0407-9871-4ab7-8285-b798a64b6a5c": {
+      "type": "multirow",
+      "blocks": {
+        "template--20790638117142__bc0d0407-9871-4ab7-8285-b798a64b6a5c-row-2": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/IMG_7386_07183b0a-a117-49aa-a688-f82bec3999be.jpg",
+            "caption": "",
+            "heading": "Tactical Pistol Course",
+            "text": "<p><strong>SPONSORED BYMENOCAL INTERNATIONAL TRAINING, SAVI REALTY, & BREADMAN MIAMI BAKERY</strong></p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20790638117142__bc0d0407-9871-4ab7-8285-b798a64b6a5c-row-2"
+      ],
+      "settings": {
+        "image_height": "adapt",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "0e2b9c76-42ea-44db-9f2b-3060a59cf89f",
+    "bc0d0407-9871-4ab7-8285-b798a64b6a5c"
+  ]
+}

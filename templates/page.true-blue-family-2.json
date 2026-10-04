@@ -1,0 +1,112 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 28
+      }
+    },
+    "e2feac3e-66ba-4798-8701-0ed56e98cbe6": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20789989802262__e2feac3e-66ba-4798-8701-0ed56e98cbe6-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "True Blue Family",
+            "heading_size": "h1"
+          }
+        },
+        "template--20789989802262__e2feac3e-66ba-4798-8701-0ed56e98cbe6-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Support the Bleeding Blue mission by joining the <em>TRUE BLUE FAMILY!</em> By signing up via the link below, you can become apart of our team in assisting local law enforcement families in need of assistance. </p><p>Your generous monthly donation will automatically be withdrawn and instantly affect the life of someone in need! All <em>True Blue Family</em> members will receive a Bleeding Blue item in the mail in honor of your endless support. </p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20789989802262__e2feac3e-66ba-4798-8701-0ed56e98cbe6-heading-1",
+        "template--20789989802262__e2feac3e-66ba-4798-8701-0ed56e98cbe6-text-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "22306cca-0bff-456d-be48-c0fa27c6c879": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--20789989802262__22306cca-0bff-456d-be48-c0fa27c6c879-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/1family.png",
+            "title": "",
+            "text": "<h1><a href=\"https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-5N862558T0057421MMRBI2UY\" target=\"_blank\" title=\"$1 RECURRING MONTHLY DONATION\">$1 FAMILY</a></h1>",
+            "link_label": "",
+            "link": "https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-5N862558T0057421MMRBI2UY"
+          }
+        },
+        "template--20789989802262__22306cca-0bff-456d-be48-c0fa27c6c879-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/got_your_6_club_1.png",
+            "title": "",
+            "text": "<h1><a href=\"https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-2K112554RG847464DMRBJIJA\" target=\"_blank\" title=\"$6 RECURRING MONTHLY DONATION\">GOT YOUR $6 CLUB</a></h1>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--20789989802262__22306cca-0bff-456d-be48-c0fa27c6c879-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/15_FOR_LIFE_1.png",
+            "title": "",
+            "text": "<h1><a href=\"https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-1CD58785KL5503355MRBJI6Y\" target=\"_blank\" title=\"$15 RECURRING MONTHLY DONATION\">$15 FOR LIFE</a></h1>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20789989802262__22306cca-0bff-456d-be48-c0fa27c6c879-column-1",
+        "template--20789989802262__22306cca-0bff-456d-be48-c0fa27c6c879-column-2",
+        "template--20789989802262__22306cca-0bff-456d-be48-c0fa27c6c879-column-3"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "e2feac3e-66ba-4798-8701-0ed56e98cbe6",
+    "22306cca-0bff-456d-be48-c0fa27c6c879"
+  ]
+}

@@ -1,0 +1,134 @@
+{%- style -%}
+  .image-gallery {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 15px;
+    margin: 20px 0;
+  }
+  
+  .gallery-item {
+    position: relative;
+    overflow: hidden;
+    border-radius: 8px;
+    transition: all 0.3s ease;
+  }
+  
+  .gallery-item:hover {
+    transform: scale(1.05);
+    z-index: 10;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+  }
+  
+  .gallery-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    transition: all 0.3s ease;
+  }
+  
+  .gallery-caption {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(0, 0, 0, 0.7);
+    color: white;
+    padding: 10px;
+    transform: translateY(100%);
+    transition: transform 0.3s ease;
+    font-size: 14px;
+    text-align: center;
+  }
+  
+  .gallery-item:hover .gallery-caption {
+    transform: translateY(0);
+  }
+  
+  @media (max-width: 768px) {
+    .image-gallery {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .image-gallery {
+      grid-template-columns: 1fr;
+    }
+  }
+{%- endstyle -%}
+
+<div class="image-gallery">
+  {% for block in section.blocks %}
+    <div class="gallery-item">
+      {% if block.settings.image != blank %}
+        {{ block.settings.image | image_url: width: 500 | image_tag: 
+           loading: 'lazy',
+           class: 'gallery-image',
+           alt: block.settings.image.alt | escape 
+        }}
+      {% else %}
+        {{ 'image' | placeholder_svg_tag: 'gallery-image placeholder' }}
+      {% endif %}
+      
+      {% if block.settings.caption != blank %}
+        <div class="gallery-caption">
+          {{ block.settings.caption }}
+        </div>
+      {% endif %}
+    </div>
+  {% endfor %}
+</div>
+
+{% schema %}
+{
+  "name": "Image Gallery",
+  "class": "gallery-section",
+  "max_blocks": 24,
+  "settings": [
+    {
+      "type": "text",
+      "id": "title",
+      "label": "Gallery Title",
+      "default": "Our Gallery"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "gallery_image",
+      "name": "Gallery Image",
+      "settings": [
+        {
+          "type": "image_picker",
+          "id": "image",
+          "label": "Image"
+        },
+        {
+          "type": "text",
+          "id": "caption",
+          "label": "Caption (optional)"
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "Image Gallery",
+      "blocks": [
+        {
+          "type": "gallery_image"
+        },
+        {
+          "type": "gallery_image"
+        },
+        {
+          "type": "gallery_image"
+        },
+        {
+          "type": "gallery_image"
+        }
+      ]
+    }
+  ]
+}
+{% endschema %}

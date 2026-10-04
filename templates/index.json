@@ -1,0 +1,385 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "1695659638a7925038": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "image_banner_PGL6rq": {
+      "type": "image-banner",
+      "blocks": {
+        "text_ELREFY": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>A 501C3 NONPROFIT ORGANIZATION PROVIDING UNWAVERING SUPPORT TO LAW ENFORCEMENT FAMILIES DURING TIMES OF INJURY, LOSS AND EMOTIONAL HARDSHIP.</strong>",
+            "text_style": "subtitle"
+          }
+        }
+      },
+      "block_order": [
+        "text_ELREFY"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/IMG_4755.heic",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "bottom-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": true
+      }
+    },
+    "ee50ae78-1d9a-471e-a666-5fc4eaa0780f": {
+      "type": "custom-liquid",
+      "custom_css": [],
+      "settings": {
+        "custom_liquid": "<div class=\"elfsight-sapp-2ed34332-d6c5-44d3-84e3-6c25ae2cc834\"></div>",
+        "color_scheme": "background-2",
+        "padding_top": 52,
+        "padding_bottom": 48
+      }
+    },
+    "featured_product_tk8BB9": {
+      "type": "featured-product",
+      "blocks": {
+        "text_cMptMP": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_GFtF46": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_gMNH3C": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker_wwHcHp": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "quantity_selector_D6Rkkf": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_xnQYRQ": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share_Vwp4gJ": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "text_cMptMP",
+        "title_GFtF46",
+        "price_gMNH3C",
+        "variant_picker_wwHcHp",
+        "quantity_selector_D6Rkkf",
+        "buy_buttons_xnQYRQ",
+        "share_Vwp4gJ"
+      ],
+      "name": "t:sections.featured-product.presets.name",
+      "settings": {
+        "product": "harley-raffle",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_banner_9dFPyp": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_bT7x6i": {
+          "type": "heading",
+          "settings": {
+            "heading": "Support Our Mission",
+            "heading_size": "h1"
+          }
+        },
+        "text_afteAD": {
+          "type": "text",
+          "settings": {
+            "text": "Bleeding Blue exists to ensure that no law enforcement family faces tragedy alone. Our <strong>Support Program</strong> provides immediate relief  for those impacted by line-of-duty injuries or death. Our <strong>Mental Health Initiatives</strong> promote wellness and provide valuable resources.",
+            "text_style": "caption-with-letter-spacing"
+          }
+        },
+        "buttons_HX64PJ": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "DONATE",
+            "button_link_1": "https://tinyurl.com/jsj297ry",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "https://tinyurl.com/jsj297ry",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_bT7x6i",
+        "text_afteAD",
+        "buttons_HX64PJ"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/53a9b1d9-7cc6-406e-9d72-0376eb45ba37.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "bottom-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "multicolumn_kfzqVe": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_NPmLVB": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/donation_image_2.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "https://tinyurl.com/jsj297ry"
+          }
+        },
+        "column_FmFhJp": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/donation_image.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "https://tinyurl.com/jsj297ry"
+          }
+        }
+      },
+      "block_order": [
+        "column_NPmLVB",
+        "column_FmFhJp"
+      ],
+      "disabled": true,
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1754909752c2413d45": {
+      "type": "apps",
+      "settings": {
+        "include_margins": false
+      }
+    },
+    "custom_liquid_jtwbeM": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "custom_liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>GreatNonprofits Badges Side-by-Side</title>\n  <style>\n    * {\n      margin: 0;\n      padding: 0;\n      box-sizing: border-box;\n    }\n    \n    body {\n      font-family: Arial, sans-serif;\n      line-height: 1.6;\n    }\n    \n    .badges-container {\n      max-width: 1200px;\n      margin: 0 auto;\n      padding: 20px;\n      display: flex;\n      justify-content: center;\n      align-items: stretch;\n      gap: 30px;\n    }\n    \n    .badge-wrapper {\n      flex: 1;\n      max-width: 350px;\n      padding: 20px;\n      border: 1px solid #eaeaea;\n      border-radius: 8px;\n      background-color: #ffffff;\n      display: flex;\n      flex-direction: column;\n      align-items: center;\n      justify-content: center;\n      box-shadow: 0 2px 10px rgba(0,0,0,0.05);\n    }\n    \n    /* Hide any script tags and noscript content */\n    script, noscript {\n      display: none;\n    }\n    \n    /* Override any hidden visibility from the original badge code */\n    .gnp_trb {\n      visibility: visible !important;\n      text-align: center;\n    }\n    \n    /* Hide any empty elements that might be showing */\n    .badge-wrapper > div:empty {\n      display: none;\n    }\n    \n    /* Responsive design for mobile devices */\n    @media (max-width: 768px) {\n      .badges-container {\n        flex-direction: column;\n        align-items: center;\n      }\n      \n      .badge-wrapper {\n        width: 100%;\n      }\n    }\n  </style>\n</head>\n<body>\n  <div class=\"badges-container\">\n    <div class=\"badge-wrapper\">\n      <!-- First Badge - Top Rated Badge -->\n      <script type=\"text/javascript\">\n          gnp_request = {\"slug\" : \"bleeding-blue-inc\", \"color-set\" : 1 , \"campaign\" : 66};\n      </script>\n      <style> div.gnp_trb { visibility:hidden; } </style>\n      <script src=\"https://greatnonprofits.org/js/api/badge_toprated.js\" type=\"text/javascript\"></script>\n      <div class=\"gnp_trb\" id=\"gnp_trb\">\n          <a href=\"https://greatnonprofits.org/org/bleeding-blue-inc\">\n              <img width=\"300\" height=\"225\" src=\"//cdn.greatnonprofits.org//img/2025-top-rated-awards-badge-embed.png?id=997607267\" alt=\"Bleeding Blue Inc Nonprofit Overview and Reviews on GreatNonprofits\" title=\"2025 Top-rated nonprofits and charities\" style=\"background-color: transparent;\">\n          </a>\n          <br>\n          <span class=\"gnp_lb\">\n              <a class=\"gnp_lb\" href=\"https://greatnonprofits.org/org/bleeding-blue-inc\" target=\"_blank\">\n                  Volunteer. Donate. Review.",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "a4c3f202-4e7c-4626-bc66-c6fd2d9a7180": {
+      "type": "image-with-text",
+      "disabled": true,
+      "custom_css": [],
+      "settings": {
+        "image": "shopify://shop_images/IMG_7979.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "743aaa73-6e21-446b-94be-6e9c534f47bc": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "custom_liquid": "<div align=center><form action=\"https://www.paypal.com/donate\" method=\"post\" target=\"_top\">\n<input type=\"hidden\" name=\"hosted_button_id\" value=\"5L3STAZN2HUZ2\" />\n<input type=\"image\" src=\"https://pics.paypal.com/00/s/ZDI3Mjk4ZTUtMzk0MS00ODQ0LTlkMDAtYzVlOGRkODc5NGY0/file.PNG\" border=\"0\" name=\"submit\" title=\"Donate Today!\" alt=\"Donate with PayPal button\" />\n<img alt=\"\" border=\"0\" src=\"https://www.paypal.com/en_US/i/scr/pixel.gif\" width=\"1\" height=\"1\" />\n</form> </div>",
+        "color_scheme": "background-2",
+        "padding_top": 40,
+        "padding_bottom": 28
+      }
+    },
+    "997f5e99-d4d9-4820-9ea7-db4934c72ef5": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--20788921991446__997f5e99-d4d9-4820-9ea7-db4934c72ef5-column-1": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Social Responsibility</strong>",
+            "text": "<p>Partnering with Bleeding Blue Inc. can be a way for businesses to demonstrate their commitment to social responsibility and supporting local heroes within the community.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--20788921991446__997f5e99-d4d9-4820-9ea7-db4934c72ef5-column-2": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Positive Public Relations</strong>",
+            "text": "<p>By partnering with Bleeding Blue Inc., businesses can enhance their public image and improve their relationships with local law enforcement and the community.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--20788921991446__997f5e99-d4d9-4820-9ea7-db4934c72ef5-column-3": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Business Benefits</strong>",
+            "text": "<p>Businesses may also be able to receive certain benefits, such as tax deductions for donations, increased exposure and visibility through the organization's marketing efforts, and potential access to new customers or clients.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20788921991446__997f5e99-d4d9-4820-9ea7-db4934c72ef5-column-1",
+        "template--20788921991446__997f5e99-d4d9-4820-9ea7-db4934c72ef5-column-2",
+        "template--20788921991446__997f5e99-d4d9-4820-9ea7-db4934c72ef5-column-3"
+      ],
+      "settings": {
+        "title": "Why partner with us?",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "Contact us to get started",
+        "button_link": "shopify://pages/contact",
+        "color_scheme": "background-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "featured-collection-0": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured products",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "frontpage",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "portrait",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "page_XYJnHP": {
+      "type": "page",
+      "disabled": true,
+      "settings": {
+        "page": "policies",
+        "heading_size": "h1",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "custom_liquid_hntfDJ": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<style>\n    .sponsors-carousel-container {\n        width: 100%;\n        max-width: 960px;\n        margin: 0 auto;\n        overflow: hidden;\n        position: relative;\n    }\n    \n    .sponsors-carousel {\n        display: flex;\n        gap: 50px;\n        /* No transition property here - we'll animate with JS for perfect smoothness */\n    }\n    \n    .sponsors-carousel-item {\n        max-width: 150px;\n        height: 135px;\n        flex: 0 0 auto;\n        position: relative;\n        overflow: hidden;\n        border-radius: 8px;\n        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);\n    }\n    \n    .sponsors-carousel-item img {\n        width: 100%;\n        height: 100%;\n        object-fit: contain;\n       \n    }\n    \n    .sponsors-heading {\n        text-align: center;\n        margin-bottom: 20px;\n    }\n</style>\n\n<h2 class=\"sponsors-heading\">Sponsors</h2>\n\n<div class=\"sponsors-carousel-container\">\n    <div class=\"sponsors-carousel\" id=\"sponsorsCarousel\">\n        <!-- Original images -->\n        <div class=\"sponsors-carousel-item\">\n            <img src=\"https://cdn.shopify.com/s/files/1/0678/7235/8678/files/commisioner.png?v=1745368412\" alt=\"commisioner\">\n        </div>\n        <div class=\"sponsors-carousel-item\">\n            <img src=\"https://cdn.shopify.com/s/files/1/0678/7235/8678/files/09apparellogo-05.png?v=1745367672\" alt=\"Image 2\">\n        </div>\n        <div class=\"sponsors-carousel-item\">\n            <img src=\"https://cdn.shopify.com/s/files/1/0678/7235/8678/files/ORCF-logo_BW_jpg_1.jpg?v=1745367340\" alt=\"Image 4\">\n        </div>\n         <div class=\"sponsors-carousel-item\">\n            <img src=\"https://cdn.shopify.com/s/files/1/0678/7235/8678/files/DCFCU_Horizontal_Logo.png?v=1745367530\" alt=\"Image 3\">\n        </div>\n        <div class=\"sponsors-carousel-item\">\n            <img src=\"https://cdn.shopify.com/s/files/1/0678/7235/8678/files/MENTAL_HEALTH_EVENT_PROGRAM_10.png?v=1745367269\" alt=\"Image 5\">\n        </div>\n        <div class=\"sponsors-carousel-item\">\n            <img src=\"https://cdn.shopify.com/s/files/1/0678/7235/8678/files/LOGO_POAT_FINAL-no-motto-ai.webp?v=1745367231\" alt=\"Image 6\">\n        </div>\n        <div class=\"sponsors-carousel-item\">\n            <img src=\"https://cdn.shopify.com/s/files/1/0678/7235/8678/files/dimelo305.webp?v=1745367195\" alt=\"Image 7\">\n        </div>\n        <div class=\"sponsors-carousel-item\">\n            <img src=\"https://cdn.shopify.com/s/files/1/0678/7235/8678/files/CPRFLogo.png?v=1745367129\" alt=\"Image 8\">\n        </div>\n        <div class=\"sponsors-carousel-item\">\n            <img src=\"https://cdn.shopify.com/s/files/1/0678/7235/8678/files/chill.png?v=1745367070\" alt=\"Image 9\">\n        </div>\n        <div class=\"sponsors-carousel-item\">\n            <img src=\"https://cdn.shopify.com/s/files/1/0678/7235/8678/files/Screenshot_2025-04-23_at_8.13.24_PM.png?v=1745460847\" alt=\"Image 10\">\n        </div>\n         <div class=\"sponsors-carousel-item\">\n            <img src=\"https://cdn.shopify.com/s/files/1/0678/7235/8678/files/BBC.jpg?v=1745635481\" alt=\"Image 3\">\n        </div>\n        <!-- Duplicate set for seamless scrolling -->\n        <div class=\"sponsors-carousel-item\">\n            <img src=\"https://cdn.shopify.com/s/files/1/0678/7235/8678/files/commisioner.png?v=1745368412\" alt=\"commisioner\">\n        </div>\n        <div class=\"sponsors-carousel-item\">\n            <img src=\"https://cdn.shopify.com/s/files/1/0678/7235/8678/files/09apparellogo-05.png?v=1745367672\" alt=\"Image 2\">\n        </div>\n        <div class=\"sponsors-carousel-item\">\n            <img src=\"https://cdn.shopify.com/s/files/1/0678/7235/8678/files/ORCF-logo_BW_jpg_1.jpg?v=1745367340\" alt=\"Image 4\">\n        </div>\n         <div class=\"sponsors-carousel-item\">\n            <img src=\"https://cdn.shopify.com/s/files/1/0678/7235/8678/files/DCFCU_Horizontal_Logo.png?v=1745367530\" alt=\"Image 3\">\n        </div>\n        <div class=\"sponsors-carousel-item\">\n            <img src=\"https://cdn.shopify.com/s/files/1/0678/7235/8678/files/MENTAL_HEALTH_EVENT_PROGRAM_10.png?v=1745367269\" alt=\"Image 5\">\n        </div>\n        <div class=\"sponsors-carousel-item\">\n            <img src=\"https://cdn.shopify.com/s/files/1/0678/7235/8678/files/LOGO_POAT_FINAL-no-motto-ai.webp?v=1745367231\" alt=\"Image 6\">\n         <div class=\"sponsors-carousel-item\">\n            <img src=\"https://cdn.shopify.com/s/files/1/0678/7235/8678/files/dimelo305.webp?v=1745367195\" alt=\"Image 7\">\n        </div>\n        <div class=\"sponsors-carousel-item\">\n            <img src=\"https://cdn.shopify.com/s/files/1/0678/7235/8678/files/CPRFLogo.png?v=1745367129\" alt=\"Image 8\">\n        </div>\n        <div class=\"sponsors-carousel-item\">\n            <img src=\"https://cdn.shopify.com/s/files/1/0678/7235/8678/files/chill.png?v=1745367070\" alt=\"Image 9\">\n        </div>\n        <div class=\"sponsors-carousel-item\">\n            <img src=\"https://cdn.shopify.com/s/files/1/0678/7235/8678/files/Screenshot_2025-04-23_at_8.13.24_PM.png?v=1745460847\" alt=\"Image 10\">\n        </div>\n         <div class=\"sponsors-carousel-item\">\n            <img src=\"https://cdn.shopify.com/s/files/1/0678/7235/8678/files/BBC.jpg?v=1745635481\" alt=\"Image 3\">\n        </div>\n        \n    </div>\n</div>\n\n<script>\n    (function() {\n        // Wait for DOM and images to be ready\n        function ready(fn) {\n            if (document.readyState === 'complete') {\n                fn();\n            } else {\n                window.addEventListener('load', fn);\n            }\n        }\n        \n        ready(function() {\n            // Get elements\n            const carousel = document.getElementById('sponsorsCarousel');\n            if (!carousel) return; // Safety check\n            \n            // Calculate some values\n            const items = carousel.querySelectorAll('.sponsors-carousel-item');\n            const totalOriginalItems = items.length / 2; // Half of the items (original set)\n            \n            // Calculate the width of a single item including gap\n            const firstItem = items[2];\n            const itemStyle = window.getComputedStyle(firstItem);\n            const itemWidth = firstItem.offsetWidth + parseInt(itemStyle.marginRight || 0) + 50; // 20px is our gap\n            \n            // Calculate the width of the original set\n            const setWidth = itemWidth * totalOriginalItems;\n            \n            // Variables for animation\n            let position = 0;\n            let speed = 1; // pixels per frame - adjust for speed\n            let isPlaying = true;\n            let animationId = null;\n            \n            // Functions\n            function animate() {\n                if (!isPlaying) {\n                    animationId = requestAnimationFrame(animate);\n                    return;\n                }\n                \n                // Move the carousel\n                position += speed;\n                \n                // Reset position exactly when needed for perfect looping\n                if (position >= setWidth) {\n                    position = 0;\n                }\n                \n                // Apply the transform\n                carousel.style.transform = `translateX(-${position}px)`;\n                \n                // Continue animation\n                animationId = requestAnimationFrame(animate);\n            }\n            \n            // Event listeners\n            carousel.addEventListener('mouseenter', function() {\n                isPlaying = false;\n            });\n            \n            carousel.addEventListener('mouseleave', function() {\n                isPlaying = true;\n            });\n            \n            // Handle tab visibility\n            document.addEventListener('visibilitychange', function() {\n                isPlaying = !document.hidden;\n            });\n            \n            // Handle window resize\n            let resizeTimeout;\n            window.addEventListener('resize', function() {\n                clearTimeout(resizeTimeout);\n                resizeTimeout = setTimeout(function() {\n                    // Recalculate values if needed\n                    const newItemStyle = window.getComputedStyle(firstItem);\n                    const newItemWidth = firstItem.offsetWidth + parseInt(newItemStyle.marginRight || 0) + 20;\n                    \n                    // Adjust position proportionally if the item width changed\n                    if (newItemWidth !== itemWidth) {\n                        const ratio = newItemWidth / itemWidth;\n                        position = position * ratio;\n                    }\n                }, 250);\n            });\n            \n            // Make sure all images are loaded before starting\n            let loadedImages = 0;\n            const totalImages = items.length;\n            \n            function checkAllImagesLoaded() {\n                loadedImages++;\n                if (loadedImages === totalImages) {\n                    // All images loaded, start animation\n                    animationId = requestAnimationFrame(animate);\n                }\n            }\n            \n            // Check existing images\n            items.forEach(item => {\n                const img = item.querySelector('img');\n                if (img.complete) {\n                    checkAllImagesLoaded();\n                } else {\n                    img.addEventListener('load', checkAllImagesLoaded);\n                    img.addEventListener('error', checkAllImagesLoaded); // Handle error too\n                }\n            });\n            \n            // Backup - start animation after a short delay if images are taking too long\n            setTimeout(function() {\n                if (!animationId) {\n                    animationId = requestAnimationFrame(animate);\n                }\n            }, 1000);\n        });\n    })();\n</script>",
+        "color_scheme": "",
+        "padding_top": 20,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "1695659638a7925038",
+    "image_banner_PGL6rq",
+    "ee50ae78-1d9a-471e-a666-5fc4eaa0780f",
+    "featured_product_tk8BB9",
+    "image_banner_9dFPyp",
+    "multicolumn_kfzqVe",
+    "1754909752c2413d45",
+    "custom_liquid_jtwbeM",
+    "a4c3f202-4e7c-4626-bc66-c6fd2d9a7180",
+    "743aaa73-6e21-446b-94be-6e9c534f47bc",
+    "997f5e99-d4d9-4820-9ea7-db4934c72ef5",
+    "featured-collection-0",
+    "page_XYJnHP",
+    "custom_liquid_hntfDJ"
+  ]
+}

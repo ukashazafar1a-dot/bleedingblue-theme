@@ -1,0 +1,314 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_with_text_Yqzx8J": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_UmmAr4": {
+          "type": "heading",
+          "settings": {
+            "heading": "\"JUST ASK\"",
+            "heading_size": "h1"
+          }
+        },
+        "text_rdepjC": {
+          "type": "text",
+          "settings": {
+            "text": "<p>A mental health movement encouraging first responders to seek the assistance they need! Here, you will have a preview to resources that are available to you during difficult moments. <strong>JUST ASK</strong> for help, <strong>JUST ASK</strong> for advice, <strong>JUST ASK</strong> for friendship, <strong>JUST ASK</strong> for support. </p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_UmmAr4",
+        "text_rdepjC"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/MENTAL_HEALTH_EVENT_PROGRAM_1_d62751d4-ac2b-40a0-b04d-366062ccfbb7.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "ambient",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "collapsible_content_3wAArL": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_wKFEFg": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "NATIONAL SUICIDE PREVENTION LIFELINE",
+            "icon": "chat_bubble",
+            "row_content": "<p>800-273-8255</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_xxGXKt": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "SUICIDE AND CRISIS LIFELINE",
+            "icon": "chat_bubble",
+            "row_content": "<p>DIAL: 988</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_dDWtLj": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "2nd ALARM PROJECT",
+            "icon": "chat_bubble",
+            "row_content": "<p>Behavior health subject matter experts for first responders</p><p>Phone:850-480-9314</p><p>www.2ndalarmproject.org</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_YmmWck": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "FIRST RESPONDER SUPPORT NETWORK",
+            "icon": "chat_bubble",
+            "row_content": "<p>Our goal is to provide first responders and their partners with tools to reduce the effects of traumatic stress and develop resiliency.</p><p>Call: (415) 721-9789</p><p><a href=\"https://www.frsn.org/\">https://www.frsn.org/</a></p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_qDMWdQ": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "FIRST H.E.L.P",
+            "icon": "chat_bubble",
+            "row_content": "<p>Providing family support, spreading awareness and training resources for first responders.</p><p><a href=\"https://1sthelp.org/family-support/\">https://1sthelp.org/family-support/</a></p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_cHw9E3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "COPLINE 24/7 HOTLINE",
+            "icon": "chat_bubble",
+            "row_content": "<p>COPLINE® offers a CONFIDENTIAL 24-hour hotline answered by retired law enforcement officers who have gone through a strenuous vetting and training process to become an active listener. CopLine® retired officer listeners provide assistance with the successful management of various psychosocial stressors that impact a significant number of law enforcement officers and their families.</p><p>CALL: 1-800-267-5463</p><p>https://www.copline.org/about/who-we-are</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_mUFFpQ": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "LEO CRISIS TEXT LINE",
+            "icon": "chat_bubble",
+            "row_content": "<p>Law enfocement officers in crisis BLUE to 741741</p><p>https://www.crisistextline.org/</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_WtXWG9": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "BLUELINE SUPPORT 24/7 HOTLINE",
+            "icon": "chat_bubble",
+            "row_content": "<p>BlueLine Support™ is a peer support officer program combined with a network of Mental Health Professionals (MHPs) to provide intervention, prevention, resiliency, training, and self-care services for law enforcement officers regardless of status </p><p>Call Now 24/7 Support Line (<a href=\"tel:+18559642583\" target=\"_blank\">855) 964-2583</a></p><p>https://bluelinesupport-bls.org/</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_kar9YN": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "THE OVERWATCH COLLECTIVE",
+            "icon": "chat_bubble",
+            "row_content": "<p>501 (c) (3) Non-Profit & Podcast Funding Therapy and Supporting Mental Health for First Responders, Military, & Their Families.</p><p>https://www.theoverwatchcollective.com/</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_cUwx9z": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "STRUGGLE WELL",
+            "icon": "chat_bubble",
+            "row_content": "<p>Struggle Well is a prevention-focused program based on the science of Posttraumatic Growth. By partnering with first responder agencies and active serving military units, we’re fundamentally changing the culture from the inside-out.</p><p>https://bouldercrest.org/program/struggle-well/</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_RarK7D": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "COVER NOW",
+            "icon": "chat_bubble",
+            "row_content": "<p>Cover Now provides confidential mental health therapy and financial support to law enforcement officers and their families who have suffered job related trauma.</p><p>(619) 908-1250</p><p>info@covernowfund.org</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_Mwkrhh": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "WARRIOR PATHH",
+            "icon": "chat_bubble",
+            "row_content": "<p>Warrior PATHH provides the training you need to transform your struggle into strength and thrive in the aftermath of trauma. Warrior PATHH — Progressive and Alternative Training for Helping Heroes — is based on the science of Posttraumatic Growth (PTG).</p><p>https://bouldercrest.org/program/warrior-pathh/</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_NrwdiC": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "FISHING WITH AMERICA'S FINEST",
+            "icon": "chat_bubble",
+            "row_content": "<p>Fishing with America’s Finest is dedicated to providing veterans and their families with no-cost recreational therapy fishing trips.</p><p>Captain Neal Stark, Founder</p><p>Evan Graver, United States Navy</p><p><a href=\"http://www.fwaf.net/\">www.fwaf.net</a></p><p>954-822-1481</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_qHYfzU": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "FELLOWSHIP OF CHRISTIAN PEACE OFFICERS",
+            "icon": "chat_bubble",
+            "row_content": "<p>The Fellowship of Christian Peace Officers (FCPO) is a national ministry comprised of Christian men and women from all areas of the criminal justice system.</p><p>Miami-Dade, Florida Chapter</p><p>Direct: (305) 283-5915</p><p><a href=\"mailto:Jorge@miamidadefcpo.org\">Jorge@miamidadefcpo.org</a></p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_wmjzdG": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "MDPD MENTAL HEALTH & WELLNESS BUREAU",
+            "icon": "chat_bubble",
+            "row_content": "<p>Address: 8240 NW 52nd Terrace, Suite 106, Miami, FL 33166</p><p>Phone: 305-591-1106</p><p>Email: <a href=\"mailto:psbinfo@mdpd.com\">psbinfo@mdpd.com</a></p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_axVWn8": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "MIAMI-DADE MULTI-AGENCY PEER SUPPORT TEAM",
+            "icon": "chat_bubble",
+            "row_content": "<p>Helping first responders and their families! </p><p>Call: (754) 315-PEER (7337)</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_MdwhU6": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "ALL WELLNESS COMMUNITY CENTER",
+            "icon": "chat_bubble",
+            "row_content": "<p>We are a group of state-licensed and certified clinicians committed to helping individuals, couples, and families through culturally sensitive wellness, psychotherapy, neurobiological, holistic and therapeutic services. Our services draw from a broad spectrum of compassion-based therapeutic approaches for individuals to achieve a well-rounded and healthy life.</p><p>10671 North Kendall Drive<br/>Miami, FL  33176</p><p>786-416-0811 Main <br/>786-558-4847 Benefits Office<br/>786-558-5483 Fax</p><p><a href=\"http://squarespace.com/\" target=\"_blank\">info@allwellnesscenter.net</a></p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_7YxdXf": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "THE WOUNDED BLUE",
+            "icon": "chat_bubble",
+            "row_content": "<p><em>The Wounded Blue's</em>Mission is to improve the lives of injured and disabled Law Enforcement Officers. By working to de-stigmatize mental health within the law enforcement community through its Peer Advocate Support Program and community outreach, the Wounded Blue can ensure that you are never forgotten and never alone. </p><p><em>If you are in need of immediate assistance, please call us at (702) 290-5611 for 24/7 support. </em></p><p>https://thewoundedblue.org/</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_pEQBT8": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "BETTER HELP",
+            "icon": "chat_bubble",
+            "row_content": "<p>Access Professional Therapy — Get Matched to the Best Therapist for You. Self-Care is Focusing on Your Mental Health.</p><p>www.betterhelp.com</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_QPbcAW": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "WOUNDED WARRIOR PROJECT",
+            "icon": "chat_bubble",
+            "row_content": "<p>Wounded Warrior Project offers an innovative, personal approach to veteran mental health and wellness that centers around you.</p><p>https://www.woundedwarriorproject.org/programs/mental-wellness</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_UGeXAJ": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "LE MENTAL HEALTH COLLAB SUPPORT CENTER",
+            "icon": "chat_bubble",
+            "row_content": "<p>The goal of the center is to connect law enforcement agencies and their partners with the resources, knowledge, and skills necessary to respond to people at the intersection of law enforcement and behavioral health.</p><p>https://csgjusticecenter.org/resources/le-mh-collaboration-support-center/</p><p>Support by phone (1-888-920-0782) or email <a href=\"mailto:LEsupport@csg.org\">LEsupport@csg.org</a></p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_wDiGPV": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "COP2COP 24/7 HOTLINE",
+            "icon": "chat_bubble",
+            "row_content": "<p>We are a 24/7 confidential peer support for New Jersey law enforcement officers and their families. Our Cop2Cop Peer counselors are retired officers and licensed clinicians that served several different law enforcement agencies including, county, municipal, corrections, large and small agencies.</p><p>COP2COP will assist and NOT turn away any police officers regardless of their state/agency </p><h5><a href=\"tel:+18662672267\">1.866.267.2267</a></h5>",
+            "page": ""
+          }
+        },
+        "collapsible_row_KYWryK": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "SHATTERPROOF FHE Health First Responders’ Program",
+            "icon": "chat_bubble",
+            "row_content": "<p>Shatterproof FHE Health is a specialized addiction and mental health treatment program for first responders.</p><p>Call for Immediate Help<a href=\"tel:+18444233081\">(844) 423-3081</a></p><p>https://fherehab.com/learning/what-sets-shatterproof-apart</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_wKFEFg",
+        "collapsible_row_xxGXKt",
+        "collapsible_row_dDWtLj",
+        "collapsible_row_YmmWck",
+        "collapsible_row_qDMWdQ",
+        "collapsible_row_cHw9E3",
+        "collapsible_row_mUFFpQ",
+        "collapsible_row_WtXWG9",
+        "collapsible_row_kar9YN",
+        "collapsible_row_cUwx9z",
+        "collapsible_row_RarK7D",
+        "collapsible_row_Mwkrhh",
+        "collapsible_row_NrwdiC",
+        "collapsible_row_qHYfzU",
+        "collapsible_row_wmjzdG",
+        "collapsible_row_axVWn8",
+        "collapsible_row_MdwhU6",
+        "collapsible_row_7YxdXf",
+        "collapsible_row_pEQBT8",
+        "collapsible_row_QPbcAW",
+        "collapsible_row_UGeXAJ",
+        "collapsible_row_wDiGPV",
+        "collapsible_row_KYWryK"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "",
+        "heading_size": "h2",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "image_with_text_Yqzx8J",
+    "main",
+    "collapsible_content_3wAArL"
+  ]
+}

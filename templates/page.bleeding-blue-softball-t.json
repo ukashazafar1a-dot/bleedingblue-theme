@@ -1,0 +1,58 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 28
+      }
+    },
+    "0e2b9c76-42ea-44db-9f2b-3060a59cf89f": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20790638117142__0e2b9c76-42ea-44db-9f2b-3060a59cf89f-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Events",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--20790638117142__0e2b9c76-42ea-44db-9f2b-3060a59cf89f-heading-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "5be46826-c3fe-415f-a191-fa3097ffea25": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<p style=\"text-align: center;\"><strong>In Honor of Pembroke Pines Police Department Officer Charlie Herring</strong></p>\n<p><img src=\"https://cdn.shopify.com/s/files/1/0678/7235/8678/files/Charity_Softball_Game_Flyer_480x480.jpg?v=1678152138\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\"></p>\n<div align=\"center\">\n<p>While on duty, “Charlie” was involved in a tragic accident while riding his police motorcycle. A piece of debris fell from a tree, striking Officer Herring and causing him to fall from his motorcycle.</p>\n<p>Officer Herring succumbed to his injuries despite all lifesaving efforts from fellow officers and emergency medical professionals.</p>\n<p>Officer Herring dedicated his life to public service and was a veteran of the United States Army. He also served as a police officer for the City of Starke (FL) for three years, before beginning his career as a Pembroke Pines Police Officer in 2001.</p>\n<p>Officer Charles Herring paid the ultimate sacrifice doing what he loved, serving and protecting others. He will be missed by all who knew and loved him.</p>\n<div></div>\n</div>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "0e2b9c76-42ea-44db-9f2b-3060a59cf89f",
+    "5be46826-c3fe-415f-a191-fa3097ffea25"
+  ]
+}

@@ -1,0 +1,612 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_with_text_Yqzx8J": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_UmmAr4": {
+          "type": "heading",
+          "settings": {
+            "heading": "\"JUST ASK\"",
+            "heading_size": "h1"
+          }
+        },
+        "text_rdepjC": {
+          "type": "text",
+          "settings": {
+            "text": "<p>A mental health movement encouraging first responders to seek the assistance they need! Here, you will have a preview to resources that are available to you during difficult moments. <strong>JUST ASK</strong> for help, <strong>JUST ASK</strong> for advice, <strong>JUST ASK</strong> for friendship, <strong>JUST ASK</strong> for support. </p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_UmmAr4",
+        "text_rdepjC"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/MENTAL_HEALTH_EVENT_PROGRAM_1_d62751d4-ac2b-40a0-b04d-366062ccfbb7.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "ambient",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "collapsible_content_3wAArL": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_wKFEFg": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "NATIONAL SUICIDE PREVENTION LIFELINE",
+            "icon": "chat_bubble",
+            "row_content": "<p>800-273-8255</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_xxGXKt": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "SUICIDE AND CRISIS LIFELINE",
+            "icon": "chat_bubble",
+            "row_content": "<p>DIAL: 988</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_dDWtLj": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "2nd ALARM PROJECT",
+            "icon": "chat_bubble",
+            "row_content": "<p>Behavior health subject matter experts for first responders</p><p>Phone:850-480-9314</p><p><a href=\"https://www.2ndalarmproject.org\" target=\"_blank\" title=\"https://www.2ndalarmproject.org\">www.2ndalarmproject.org</a></p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_PKh3Ne": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "MIAMI-DADE MULTI-AGENCY PEER SUPPORT TEAM",
+            "icon": "chat_bubble",
+            "row_content": "<p>Helping first responders and their families! </p><p>Call: (754) 315-PEER (7337)</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_cHw9E3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "COPLINE 24/7 HOTLINE",
+            "icon": "chat_bubble",
+            "row_content": "<p>COPLINE® offers a CONFIDENTIAL 24-hour hotline answered by retired law enforcement officers who have gone through a strenuous vetting and training process to become an active listener. CopLine® retired officer listeners provide assistance with the successful management of various psychosocial stressors that impact a significant number of law enforcement officers and their families.</p><p>CALL: 1-800-267-5463</p><p><a href=\"https://www.copline.org/about/who-we-are\" target=\"_blank\" title=\"https://www.copline.org/about/who-we-are\">https://www.copline.org/about/who-we-are</a></p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_mUFFpQ": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "LEO CRISIS TEXT LINE",
+            "icon": "chat_bubble",
+            "row_content": "<p>Law enforcement officers in crisis BLUE to 741741</p><p><a href=\"https://www.crisistextline.org/\" target=\"_blank\" title=\"https://www.crisistextline.org/\">https://www.crisistextline.org/</a></p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_WtXWG9": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "BLUELINE SUPPORT 24/7 HOTLINE",
+            "icon": "chat_bubble",
+            "row_content": "<p>BlueLine Support™ is a peer support officer program combined with a network of Mental Health Professionals (MHPs) to provide intervention, prevention, resiliency, training, and self-care services for law enforcement officers regardless of status </p><p>Call Now 24/7 Support Line (<a href=\"tel:+18559642583\" target=\"_blank\">855) 964-2583</a></p><p><a href=\"https://bluelinesupport-bls.org/\" target=\"_blank\" title=\"https://bluelinesupport-bls.org/\">https://bluelinesupport-bls.org/</a></p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_7YxdXf": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "THE WOUNDED BLUE",
+            "icon": "chat_bubble",
+            "row_content": "<p><em>The Wounded Blue's</em>Mission is to improve the lives of injured and disabled Law Enforcement Officers. By working to de-stigmatize mental health within the law enforcement community through its Peer Advocate Support Program and community outreach, the Wounded Blue can ensure that you are never forgotten and never alone. </p><p><em>If you are in need of immediate assistance, please call us at (702) 290-5611 for 24/7 support. </em></p><p><a href=\"https://thewoundedblue.org/\" target=\"_blank\" title=\"https://thewoundedblue.org/\">https://thewoundedblue.org/</a></p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_wDiGPV": {
+          "type": "collapsible_row",
+          "disabled": true,
+          "settings": {
+            "heading": "COP2COP 24/7 HOTLINE",
+            "icon": "chat_bubble",
+            "row_content": "<p>We are a 24/7 confidential peer support for New Jersey law enforcement officers and their families. Our Cop2Cop Peer counselors are retired officers and licensed clinicians that served several different law enforcement agencies including, county, municipal, corrections, large and small agencies.</p><p>COP2COP will assist and NOT turn away any police officers regardless of their state/agency </p><h5><a href=\"tel:+18662672267\">1.866.267.2267</a></h5>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_wKFEFg",
+        "collapsible_row_xxGXKt",
+        "collapsible_row_dDWtLj",
+        "collapsible_row_PKh3Ne",
+        "collapsible_row_cHw9E3",
+        "collapsible_row_mUFFpQ",
+        "collapsible_row_WtXWG9",
+        "collapsible_row_7YxdXf",
+        "collapsible_row_wDiGPV"
+      ],
+      "name": "hotlines",
+      "settings": {
+        "caption": "",
+        "heading": "Hotlines",
+        "heading_size": "h2",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image": "shopify://shop_images/Logo_AI_file_2_.ai_2.png",
+        "image_ratio": "small",
+        "desktop_layout": "image_first",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "collapsible_content_XyYFqn": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_7f7iMM": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Miami-Dade Sheriffs Office Psychological Services",
+            "icon": "chat_bubble",
+            "row_content": "<p>The Mental Health & Wellness Bureau is responsible for the provision of mental health related services to both Miami-Dade Sheriff's Office (MDSO) employees and the citizens they serve. The Bureau is comprised of the Community Mental Health Section and the Psychological Services Section.<br/><br/>9001 NW 87th Avenue, Suite 600<br/>Medley, FL 33166<br/>Phone: 305-591-1106<br/>Fax: 305-597-7812<br/>Email:<a href=\"mailto:psbinfo@mdso.com\">psbinfo@mdso.com</a></p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_dGTxy7": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Minding The Gap",
+            "icon": "chat_bubble",
+            "row_content": "<p>Our mission is to bring trauma informed care and mental health awareness to our community, with a focus on first responder wellness and resilience, by proving mental health and peer support to first responders and their families as well as others that are struggling with mental health due to traumatic stress. <br/><br/>Please contact us for more information. We will review one of our providers will reach out.</p><p><a href=\"mailto:vania@mindingthegap.net\" target=\"_blank\" title=\"mailto:vania@mindingthegap.net\">vania@mindingthegap.net</a><br/>786-310-6004<br/></p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_K6DzNj": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Warrior Spirit Health and Wellness",
+            "icon": "chat_bubble",
+            "row_content": "<p>Prioritizing mental health and wellness for first responders, their families, and the community. At Warrior Spirit Health and Wellness LLC, we absolutely recognize the critical role mental health plays in ensuring the resilience and effectiveness of first responders.</p><p>Should you have any questions, please do not hesitate to reach out to us via email at <a href=\"mailto:rbest@wshw.org\">rbest@wshw.org </a>or by phone at (561) 903-0200</p><p><a href=\"https://wshw.org/\" target=\"_blank\" title=\"https://wshw.org/\">https://wshw.org/</a><br/><br/></p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_r8WMKG": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "EMDR Miami",
+            "icon": "chat_bubble",
+            "row_content": "<p>Sambra Zaoui, LCSW, is an EMDRIA Certified EMDR psychotherapist and Sensorimotor practitioner, specializing in trauma interventions. She serves as an assistant professor of social work at Barry University for the past 15 years, where she lectures on advanced clinical skills, the neurobiology of trauma and further presents nationally and locally her work with survivors of complex trauma.<br/><br/><a href=\"https://www.emdrmiami.com/\" target=\"_blank\" title=\"https://www.emdrmiami.com/\">https://www.emdrmiami.com/</a></p><p>Email: <a href=\"mailto:sambrazaoui@icloud.com\" target=\"_blank\">sambrazaoui@icloud.com</a></p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_eJXBY4": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Michael Vasconez, LCSW",
+            "icon": "chat_bubble",
+            "row_content": "<p>A Licensed Clinical Social Worker (LCSW) based in Miami, FL. I received my Master of Social Work (2017), B.A. in Psychology (2014) and B.S. in Criminal Justice (2014) from the Florida International University (FIU). I am committed to upholding the core values of social work—respect, empathy, and authenticity—and adopting the holistic Person-In-Environment (PIE) perspective. Ten years ago, I first embarked on my professional journey serving in child welfare, as well as adult forensic and homeless populations.<br/><br/><strong>Email:</strong> <a href=\"mailto:msagev@yahoo.com\" target=\"_blank\" title=\"mailto:msagev@yahoo.com\">msagev@yahoo.com</a></p><p><strong>Phone</strong>: (786) 972-5852</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_AQDWia": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Everbloom Counseling LLC",
+            "icon": "chat_bubble",
+            "row_content": "<p>Therapy with me is collaborative, down-to-earth, and designed to meet you where you are. Together, we’ll explore what’s weighing on you and build strategies to help you move forward more clearly, calmly, and confidently.</p><p>Whether you're facing anxiety, working through grief, navigating life transitions, or feeling stuck in perfectionism and self-doubt, therapy offers a space to breathe, reflect, and grow at your own pace. Together, we can gently explore what’s weighing on you and find steady ground through life’s tender moments.</p><p><strong>Bianca Muniz, LCSW</strong></p><p><strong>Email:</strong> <a href=\"mailto:bmunizlcsw@everbloomcounselingllc.com\" target=\"_blank\" title=\"mailto:bmunizlcsw@everbloomcounselingllc.com\">bmunizlcsw@everbloomcounselingllc.com</a></p><p><strong>Website: </strong><a href=\"https://www.everbloomcounselingllc.com/\" target=\"_blank\" title=\"https://www.everbloomcounselingllc.com/\">https://www.everbloomcounselingllc.com/</a></p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_yeCB3P": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Terrini Woods Counseling, Inc.",
+            "icon": "chat_bubble",
+            "row_content": "<p>We help finds new life paths to overcome trauma and pain, so you can experience counseling as a spa for your mind. </p><p><strong>Terrini Woods, LMHC</strong></p><p><strong>Website: </strong><a href=\"mailto:bmunizlcsw@everbloomcounselingllc.com\" target=\"_blank\" title=\"mailto:bmunizlcsw@everbloomcounselingllc.com\">https://terriniwoodscounseling.com</a></p><p><strong>Email: </strong>terrinimwoods@gmail.com</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_WVeHBV": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Wellspring Counseling Center",
+            "icon": "chat_bubble",
+            "row_content": "<p>Wellspring provides individualized mental health counseling services, programming, and education to thousands of individuals, all geared to their specific needs.</p><p>Through the guidance of our highly skilled therapists, we work to improve and support your mental health. By addressing the issues that are negatively impacting you, whether from a current situation or past trauma, you can find relief, support, and healing. Your healthy mind and emotions will make your life better and also influence the lives of those around you and who come after you.</p><p><strong>Cristina Horta, RMHCI</strong></p><p><strong>Email: </strong><a href=\"mailto:cristina@wellspringmiami.org\" target=\"_blank\" title=\"mailto:cristina@wellspringmiami.org\">cristina@wellspringmiami.org</a></p><p><strong>Website</strong>: <a href=\"https://wellspringmiami.org/\" target=\"_blank\" title=\"https://wellspringmiami.org/\">https://wellspringmiami.org/</a></p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_QGPVGi": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Transcend Wellness",
+            "icon": "chat_bubble",
+            "row_content": "<p>Transcend Wellness is an intimate, boutique style, family-owned intensive outpatient program in Wilton Manors, Florida. Our program was created when three experienced therapists consistently struggled to find the treatment options and support for their patients.<br/><br/>Our program is clinically robust and designed to foster healing and growth regardless of barriers.  We offer a supplemental intensive trauma track, including EMDR, for those in need of immediate relief from PTSD symptoms. </p><p><br/><strong>Daniel Rubin, LMHC</strong></p><p><strong>Email: </strong><a href=\"mailto:info@southfloridamentalhealth.com\" target=\"_blank\" title=\"mailto:info@southfloridamentalhealth.com\">info@southfloridamentalhealth.com</a></p><h6><strong>Website</strong>: <a href=\"https://www.transcendcounselingllc.com/\" target=\"_blank\" title=\"https://www.transcendcounselingllc.com/\">https://www.transcendcounselingllc.com/</a></h6>",
+            "page": ""
+          }
+        },
+        "collapsible_row_qTK4wb": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Shilow Wellness Center",
+            "icon": "chat_bubble",
+            "row_content": "<p>As a dedicated Licensed Mental Health Counselor, I specialize in guiding individuals of various ages and life stages through their unique mental health journeys. My expertise encompasses a wide range of challenges, including ADHD, anxiety, bipolar disorder, depression, dual diagnosis, relationship issues (couples therapy,) substance abuse, and trauma.<br/></p><p><strong>Lourdes Garcia-Carillo, LMHC</strong></p><p><strong>Email:</strong> lourdes@ognabconsulting.com</p><p><strong>Phone:</strong> (786)305-8467<br/></p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_wQYEUr": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Rootless Therapy",
+            "icon": "chat_bubble",
+            "row_content": "<p>As a trauma-informed and culturally sensitive mental health counselor, I believe healing begins with understanding—not only of your internal world, but also of the cultural, historical, and systemic influences that shape your experiences. Whether you're dealing with complex PTSD or simply navigating the weight of grief and unresolved trauma, you're not alone. Therapy with me is about creating a space where you feel safe, respected, and genuinely heard. I understand the unique mental and emotional demands placed on those who serve and protect our community and Country. I’m here to walk alongside you in your healing process.<br/></p><p><strong>Ruth Cuzan, IMH CRC</strong></p><p><strong>Email</strong>: <a href=\"mailto:ruth@rootlesstherapy.com\" target=\"_blank\" title=\"mailto:ruth@rootlesstherapy.com\">ruth@rootlesstherapy.com</a></p><p><strong>Phone:</strong> (786)397-5396<br/></p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_UmMdNw": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Victoria Shepherd, LMHC",
+            "icon": "chat_bubble",
+            "row_content": "<p>License Mental Health Counselor</p><p><strong>Email:</strong> <a href=\"mailto:vmshep17@gmail.com\" target=\"_blank\" title=\"mailto:vmshep17@gmail.com\">vmshep17@gmail.com</a></p><p><strong>Phone:</strong> (305) 588-8938</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_RfcHed": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Beachway Therapy Center",
+            "icon": "chat_bubble",
+            "row_content": "<p>Located in Palm Beach County since 2008, Beachway Therapy Center is a nationally recognized provider of addiction  and mental health treatment with a specialty in treating individuals who suffer from co-occurring mental health disorders. By providing evidence-based and innovative holistic therapy, our team of dedicated and experienced professionals empowers our patients to recover in a safe and private environment.</p><p><strong>Tim Roberto, CAAP</strong></p><p><strong>Email: </strong>tim.r@beachway.com</p><p><strong>Wendy Happ, LMHC</strong></p><p><strong>Email: </strong>wendy.h@beachway.com</p><p><strong>Website:</strong> <a href=\"https://www.beachway.com/\" target=\"_blank\" title=\"https://www.beachway.com/\">https://www.beachway.com/</a><br/></p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_GCHLkj": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Angie Dominguez, RMHCI",
+            "icon": "chat_bubble",
+            "row_content": "<p>I provide therapy to help navigate<br/>challenges and foster personal growth. Whether you’re<br/>dealing with unresolved trauma, chronic stress, or<br/>emotional difficulties, I offer a safe and compassionate<br/>space for you to explore these feelings. </p><p><strong>Angie Dominguez</strong> </p><p><strong>https://dot.cards/angiedominguez</strong></p><p><br/><strong>Address: 9425 Sunset Drive, Suite 251,  Miami FL <br/>Email: domclasconsulting@gmail.com<br/>Phone: (786)836-8595</strong><br/><br/><br/><br/></p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_3NK3wW": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Nurturing Hope Cousnseling",
+            "icon": "chat_bubble",
+            "row_content": "<p>I have been a Licensed Clinical Social Worker in the state of Florida<br/>since 1998 (licensed in NJ since 1995). My experience includes working with adults, and adolescents mental health issues; assessment and evaluation; individual, and group therapy. I am trained in Prolonged Exposure (PE) or the treatment of Veterans/clients with PTSD related to trauma. </p><p><br/><strong>Herenia Ferreiro<br/>Nurturing Hope Counseling Services<br/>Address: 3301 N. University Drive, Coral Springs, FL 33065<br/>Email:ferreiroh@nurturinghopecounselingservices.com<br/>Phone: 954-242-8507</strong><br/><br/></p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_eBjzWg": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Amethyst Health Group",
+            "icon": "chat_bubble",
+            "row_content": "<p>I am Belkis Plasencia, I'm a double-board certified Nurse Practitioner in Florida. I have a Doctorate Degree from South<br/>University, and a Post Graduate Psychiatric Mental Health Nurse Practitioner from the University of Miami. I am also a<br/>board certify Adult- Gerontology Nurse Practitioner. Fluent in Spanish, I diagnose and treat a range of mental health<br/>disorders, including ADHD, depression, anxiety, bipolar disorder, mood disorders.<br/><br/><br/><strong>Dr. Belkis Plasencia, DNP, AGNP, PMHNP<br/>Psychiatric Nurse Practitioner,<br/>Amethyst Health Group<br/>Address: 9425 Sunset Drive, Ste 251, Miami FL 33173<br/>Email: amethysthealthgroup@gmail.com<br/>Phone: 305-305-6573</strong><br/><br/></p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_7f7iMM",
+        "collapsible_row_dGTxy7",
+        "collapsible_row_K6DzNj",
+        "collapsible_row_r8WMKG",
+        "collapsible_row_eJXBY4",
+        "collapsible_row_AQDWia",
+        "collapsible_row_yeCB3P",
+        "collapsible_row_WVeHBV",
+        "collapsible_row_QGPVGi",
+        "collapsible_row_qTK4wb",
+        "collapsible_row_wQYEUr",
+        "collapsible_row_UmMdNw",
+        "collapsible_row_RfcHed",
+        "collapsible_row_GCHLkj",
+        "collapsible_row_3NK3wW",
+        "collapsible_row_eBjzWg"
+      ],
+      "name": "Therapy Services",
+      "settings": {
+        "caption": "Culturally competent therapists vetted through Bleeding Blue's mental health committee",
+        "heading": "Therapy Services",
+        "heading_size": "h2",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image": "shopify://shop_images/Logo_AI_file_2_.ai.png",
+        "image_ratio": "small",
+        "desktop_layout": "image_first",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collapsible_content_XXQJTH": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_fDbDYg": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "STRUGGLE WELL",
+            "icon": "chat_bubble",
+            "row_content": "<p>Struggle Well is a prevention-focused program based on the science of Posttraumatic Growth. By partnering with first responder agencies and active serving military units, we’re fundamentally changing the culture from the inside-out.</p><p><a href=\"https://bouldercrest.org/program/struggle-well/\" target=\"_blank\" title=\"https://bouldercrest.org/program/struggle-well/\">https://bouldercrest.org/program/struggle-well/</a></p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_fkVQwC": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "WARRIOR PATHH",
+            "icon": "chat_bubble",
+            "row_content": "<p>Warrior PATHH provides the training you need to transform your struggle into strength and thrive in the aftermath of trauma. Warrior PATHH — Progressive and Alternative Training for Helping Heroes — is based on the science of Posttraumatic Growth (PTG).</p><p><a href=\"https://bouldercrest.org/program/warrior-pathh/\" target=\"_blank\" title=\"https://bouldercrest.org/program/warrior-pathh/\">https://bouldercrest.org/program/warrior-pathh/</a></p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_Xmnn6b": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "FIRST H.E.L.P",
+            "icon": "chat_bubble",
+            "row_content": "<p>Providing family support, spreading awareness and training resources for first responders.</p><p><a href=\"https://1sthelp.org/family-support/\">https://1sthelp.org/family-support/</a></p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_NkKUaA": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "FIRST RESPONDER SUPPORT NETWORK",
+            "icon": "chat_bubble",
+            "row_content": "<p>Our goal is to provide first responders and their partners with tools to reduce the effects of traumatic stress and develop resiliency.</p><p>Call: (415) 721-9789</p><p><a href=\"https://www.frsn.org/\">https://www.frsn.org/</a></p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_fDbDYg",
+        "collapsible_row_fkVQwC",
+        "collapsible_row_Xmnn6b",
+        "collapsible_row_NkKUaA"
+      ],
+      "name": "training",
+      "settings": {
+        "caption": "",
+        "heading": "Training",
+        "heading_size": "h2",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collapsible_content_dj49K3": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_MAieDx": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "COVER NOW",
+            "icon": "chat_bubble",
+            "row_content": "<p>Cover Now provides confidential mental health therapy and financial support to law enforcement officers and their families who have suffered job related trauma.</p><p>(619) 908-1250</p><p><a href=\"mailto:info@covernowfund.org\" target=\"_blank\" title=\"mailto:info@covernowfund.org\">info@covernowfund.org</a></p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_mPUfgU": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "SHATTERPROOF FHE Health First Responders’ Program",
+            "icon": "chat_bubble",
+            "row_content": "<p>Shatterproof FHE Health is a specialized addiction and mental health treatment program for first responders.</p><p>Call for Immediate Help<a href=\"tel:+18444233081\">(844) 423-3081</a></p><p><a href=\"https://fherehab.com/learning/what-sets-shatterproof-apart\" target=\"_blank\" title=\"https://fherehab.com/learning/what-sets-shatterproof-apart\"><em>https://fherehab.com/learning/what-sets-shatterproof-apart</em></a></p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_fCBM3N": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "THE OVERWATCH COLLECTIVE",
+            "icon": "chat_bubble",
+            "row_content": "<p>501 (c) (3) Non-Profit & Podcast Funding Therapy and Supporting Mental Health for First Responders, Military, & Their Families.</p><p><a href=\"https://www.theoverwatchcollective.com/\" target=\"_blank\" title=\"https://www.theoverwatchcollective.com/\">https://www.theoverwatchcollective.com/</a></p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_AFH6XY": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "FELLOWSHIP OF CHRISTIAN PEACE OFFICERS",
+            "icon": "chat_bubble",
+            "row_content": "<p>The Fellowship of Christian Peace Officers (FCPO) is a national ministry comprised of Christian men and women from all areas of the criminal justice system.</p><p>Miami-Dade, Florida Chapter</p><p>Direct: (305) 283-5915</p><p><a href=\"mailto:Jorge@miamidadefcpo.org\">Jorge@miamidadefcpo.org</a></p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_QYaDcd": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "FISHING WITH AMERICA'S FINEST",
+            "icon": "chat_bubble",
+            "row_content": "<p>Fishing with America’s Finest is dedicated to providing veterans and their families with no-cost recreational therapy fishing trips.</p><p>Captain Neal Stark, Founder</p><p>Evan Graver, United States Navy</p><p><a href=\"http://www.fwaf.net/\">www.fwaf.net</a></p><p>954-822-1481</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_Hit3wt": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "WOUNDED WARRIOR PROJECT",
+            "icon": "chat_bubble",
+            "row_content": "<p>Wounded Warrior Project offers an innovative, personal approach to veteran mental health and wellness that centers around you.</p><p><a href=\"https://www.woundedwarriorproject.org/programs/mental-wellness\" target=\"_blank\" title=\"https://www.woundedwarriorproject.org/programs/mental-wellness\">https://www.woundedwarriorproject.org/programs/mental-wellness</a></p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_ftHfpY": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "LE MENTAL HEALTH COLLAB SUPPORT CENTER",
+            "icon": "chat_bubble",
+            "row_content": "<p>The goal of the center is to connect law enforcement agencies and their partners with the resources, knowledge, and skills necessary to respond to people at the intersection of law enforcement and behavioral health.</p><p>https://csgjusticecenter.org/resources/le-mh-collaboration-support-center/</p><p>Support by phone (1-888-920-0782) or email <a href=\"mailto:LEsupport@csg.org\">LEsupport@csg.org</a></p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_MAieDx",
+        "collapsible_row_mPUfgU",
+        "collapsible_row_fCBM3N",
+        "collapsible_row_AFH6XY",
+        "collapsible_row_QYaDcd",
+        "collapsible_row_Hit3wt",
+        "collapsible_row_ftHfpY"
+      ],
+      "name": "more",
+      "settings": {
+        "caption": "",
+        "heading": "More Resources",
+        "heading_size": "h2",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collapsible_content_PrPXi6": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_px7Etx": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Veterans Crisis Line – 24 Hour",
+            "icon": "chat_bubble",
+            "row_content": "<p>Toll Free at 988, Press 1<br/><a href=\"https://www.mentalhealth.va.gov/\">www.mentalhealth.va.gov</a></p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_mpCUAK": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "National VA Homeless Hotline – 24 Hour",
+            "icon": "chat_bubble",
+            "row_content": "<p>Toll Free at 1-877-424-3838<br/><a href=\"https://www.va.gov/homeless/\">https://www.va.gov/homeless/</a></p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_WRNR7t": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Miami-Dade Veteran Services",
+            "icon": "chat_bubble",
+            "row_content": "<p>Veteran Services Program assists Veterans and their families (spouse, children, widows, parents of Veterans) with applying for Veteran benefits, claims and appeals to the United States Department of Veterans Affairs.<br/></p><p><strong>Website:</strong><br/><a href=\"https://www.miamidade.gov/global/service.page?Mduid_service=ser1541189005378737\" target=\"_blank\" title=\"https://www.miamidade.gov/global/service.page?Mduid_service=ser1541189005378737\">Click here for Link</a></p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_N6Q6ai": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "United Way",
+            "icon": "chat_bubble",
+            "row_content": "<p>We’re MISSION UNITED in Miami – a single point of entry for veterans to access the help they need, at no cost. MISSION UNITED helps address the unique needs of veterans. By by connecting them to a coordinated network of community partners, we empower veterans and their families to lead productive lives in our community. Support services include job training and opportunities, legal resources, financial empowerment and more.<br/><br/><a href=\"https://unitedwaymiami.org/mission-united/\" target=\"_blank\" title=\"https://unitedwaymiami.org/mission-united/\">https://unitedwaymiami.org/mission-united/</a></p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_xkYNDy": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "National Center for PTSD",
+            "icon": "chat_bubble",
+            "row_content": "<p>As a Veteran, you have unique options for PTSD treatment and services to address other mental health needs. Learn about PTSD treatment in VA and Vet Centers as well as how to get connected with VA benefits or make claims.<br/><br/><a href=\"https://www.ptsd.va.gov/gethelp/help_for_veterans.asp\" target=\"_blank\" title=\"https://www.ptsd.va.gov/gethelp/help_for_veterans.asp\">https://www.ptsd.va.gov/gethelp/help_for_veterans.asp</a></p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_EVTkpN": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "HOPE Florida",
+            "icon": "chat_bubble",
+            "row_content": "<p>Hope Florida, an initiative spearheaded by First Lady Casey DeSantis, uses Hope Navigators to guide Florida veterans on an individualized path to prosperity and economic self-sufficiency by focusing on community collaboration between the private sector, faith-based community, nonprofits, and government entities. These experts work hand-in-hand with veterans to identify their unique barriers to success and engage all sectors of the community to break down traditional silos, maximizing support and uncovering opportunities.</p><p><a href=\"https://www.floridavets.org/resources/hope-florida/\" target=\"_blank\" title=\"https://www.floridavets.org/resources/hope-florida/\">https://www.floridavets.org/resources/hope-florida/</a></p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_px7Etx",
+        "collapsible_row_mpCUAK",
+        "collapsible_row_WRNR7t",
+        "collapsible_row_N6Q6ai",
+        "collapsible_row_xkYNDy",
+        "collapsible_row_EVTkpN"
+      ],
+      "name": "Veteran Resources",
+      "settings": {
+        "caption": "",
+        "heading": "Veteran Resources",
+        "heading_size": "h2",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "contact_form_mYazXB": {
+      "type": "contact-form",
+      "name": "t:sections.contact-form.presets.name",
+      "settings": {
+        "heading": "Want to join our Provider list? Contact us!",
+        "heading_size": "h1",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "image_with_text_Yqzx8J",
+    "main",
+    "collapsible_content_3wAArL",
+    "collapsible_content_XyYFqn",
+    "collapsible_content_XXQJTH",
+    "collapsible_content_dj49K3",
+    "collapsible_content_PrPXi6",
+    "contact_form_mYazXB"
+  ]
+}
